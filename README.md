@@ -2,9 +2,9 @@
 
 
 
-  <p>Here are some ideas to get you started:</p>
+<p>Here are some ideas to get you started:</p>
 
-- <h6>🔭 I’m currently working on OBILE APP DEVLPEMTN</h6> 
+- <h6>🔭 I’m currently working on MOBILE APP DEVLPEMTN</h6> 
 - <h6>👨‍💻 I’m currently learning DPI PROGRAMMING CLUB .</h6>
 - <h6>🌱 I’m currently learning Dart programming Language</h6>
 - <h6>I'm alrady learing python programing , java , c programming basci consept.</h6>
