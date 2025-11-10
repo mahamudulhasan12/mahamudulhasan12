@@ -2,7 +2,7 @@
 
 
 
-                                                                                   <p>Here are some ideas to get you started:</p>
+  <p>Here are some ideas to get you started:</p>
 
 - <h6>🔭 I’m currently working on OBILE APP DEVLPEMTN</h6> 
 - <h6>👨‍💻 I’m currently learning DPI PROGRAMMING CLUB .</h6>
