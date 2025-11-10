@@ -2,11 +2,12 @@
 
 
 
-<p>Here are some ideas to get you started:</p>
+                                                                                   <p>Here are some ideas to get you started:</p>
 
-- <h6>🔭 I’m currently working on Mobile app devlpemtn></h6> 
+- <h6>🔭 I’m currently working on OBILE APP DEVLPEMTN</h6> 
+- <h6>👨‍💻 I’m currently learning DPI PROGRAMMING CLUB .</h6>
 - <h6>🌱 I’m currently learning Dart programming Language</h6>
-- <h6>👯 I’m looking to collaborate on </h6>
-- <h6>🤔 I’m looking for help with youtube , Geek for Geek and Dart overview ect.</h6>
+- <h6>I'm alrady learing python programing , java , c programming basci consept.</h6>
+- <h6>🤔 I’m looking for help with DPI PROGRAMMING CLUB , YOUTUBE ,GEEK FOR GEEK AND DART OVERVIEW.</h6>
 - <h6>💬 Ask me about....qusetion ? </h6>
 - 
