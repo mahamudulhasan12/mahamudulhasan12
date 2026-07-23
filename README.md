@@ -1,129 +1,45 @@
-<!-- ========================= HEADER ========================= -->
+💫 About Me
 
-<h1 align="center">Hi 👋, I'm Mahamudul Hasan</h1>
-<h3 align="center">Flutter Developer | Computer Science & Technology Student</h3>
+Hi, I'm Mahamudul Hasan 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Developer;Computer+Science+Student;Always+Learning+New+Things" />
-</p>
+I'm a Flutter Developer and Computer Science & Technology student at Dinajpur Polytechnic Institute. I specialize in building clean, responsive, and cross-platform mobile applications using Flutter and Dart. Passionate about learning new technologies, solving real-world problems, and continuously improving my skills, I am currently seeking opportunities to grow as a mobile app developer.
 
----
 
-## 💫 About Me
+## 🌐 Connect with Me
 
-- 📱 Flutter Developer passionate about building beautiful mobile applications.
-- 🎓 Computer Science & Technology Student at **Dinajpur Polytechnic Institute**.
-- 💙 Specialized in **Flutter** & **Dart**.
-- 🌱 Currently learning **Firebase, REST APIs, Clean Architecture & State Management**.
-- 💼 Looking for **Internship** and **Junior Flutter Developer** opportunities.
-- ⚡ Love solving real-world problems through technology.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahamudulhasan12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mahamudul-hasan-mahamudulhasan/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.mahamudul.hasan.mdmahamudulhasanmunna)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahamudulhasanmunna459@gmail.com)
 
----
+## 💻 Tech Stack
 
-## 🌐 Connect With Me
+### 🚀 Programming Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-<p align="left">
-
-<a href="https://github.com/mahamudulhasan12">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/md-mahamudul-hasan-mahamudulhasan/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/md.mahamudul.hasan.mdmahamudulhasanmunna">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="mailto:mahamudulhasanmunna459@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-### 🚀 Languages
-
-Dart • Flutter • Kotlin • Java • Python • C
-
-### 📱 Mobile
-
-Flutter • Firebase
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🗄️ Database
-
-MySQL • Oracle
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🎨 Design
-
-Figma • Canva • Graphics Design
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Graphics Design](https://img.shields.io/badge/Graphics%20Design-8A2BE2?style=for-the-badge)
 
 ### 💻 Operating System
+![Linux Ubuntu](https://img.shields.io/badge/Linux%20Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-Ubuntu Linux
+### 🌍 Languages
+![English](https://img.shields.io/badge/English-0052CC?style=for-the-badge)
+![Bangla](https://img.shields.io/badge/Bangla-006A4E?style=for-the-badge)
 
-### 🌍 Spoken Languages
-
-English • Bangla
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mahamudulhasan12&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudulhasan12&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahamudulhasan12&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mahamudulhasan12&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahamudulhasan12&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# ✍️ Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**"Code • Learn • Build • Repeat 🚀"**
-
-</div>
+📊 GitHub Stats:
