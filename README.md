@@ -2,7 +2,7 @@
 
 <h2>Hi, I'm Mahamudul Hasan 👋</h2>
 
-<h1>I'm a Flutter Developer and Computer Science & Technology student at Dinajpur Polytechnic Institute. I specialize in building clean, responsive, and cross-platform mobile applications using Flutter and Dart. Passionate about learning new technologies, solving real-world problems, and continuously improving my skills, I am currently seeking opportunities to grow as a mobile app developer.</h1>
+I'm a Flutter Developer and Computer Science & Technology student at Dinajpur Polytechnic Institute. I specialize in building clean, responsive, and cross-platform mobile applications using Flutter and Dart. Passionate about learning new technologies, solving real-world problems, and continuously improving my skills, I am currently seeking opportunities to grow as a mobile app developer.
 
 
 ## 🌐 Connect with Me
